@@ -1,0 +1,11 @@
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\Rock_Paper_Scissors.exe
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\Rock_Paper_Scissors.deps.json
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\Rock_Paper_Scissors.runtimeconfig.json
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\Rock_Paper_Scissors.runtimeconfig.dev.json
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\Rock_Paper_Scissors.dll
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\Rock_Paper_Scissors.pdb
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\Rock_Paper_Scissors.csprojAssemblyReference.cache
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\Rock_Paper_Scissors.AssemblyInfoInputs.cache
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\Rock_Paper_Scissors.AssemblyInfo.cs
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\Rock_Paper_Scissors.dll
+C:\Users\Artexa\RiderProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\Rock_Paper_Scissors.pdb
