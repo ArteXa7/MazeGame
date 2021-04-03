@@ -1,2 +1,2 @@
-# Rock_Paper_Scissorss
+# Rock_Paper_Scissors
 # Nice_Game!
