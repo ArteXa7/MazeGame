@@ -1,0 +1,13 @@
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.csprojAssemblyReference.cache
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.AssemblyInfoInputs.cache
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.AssemblyInfo.cs
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.exe
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.deps.json
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.runtimeconfig.json
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.runtimeconfig.dev.json
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.dll
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.pdb
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.dll
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.pdb
+C:\Users\Artexa\RiderProjects\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.genruntimeconfig.cache
